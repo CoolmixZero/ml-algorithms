@@ -8,7 +8,7 @@
 | SVM | ... | ... | ... |
 | AQ11 | ... | ... | ... |
 | HCT | ... | ... | ... |
-| IWP | ... | ... | ... |
+| IWP | 1. Создаём уравнение $w_1 x_1 + w_2 x_2 = w_0$ , где $x_1$ - x, а $x_2$ - y. [ $w_0 w_1 w_2$ ] - рандомные числа в интервале от <-1, 1>| $U_{kj} = \sum_{i≠k}\frac{w_{i}*x_{ij}}{x_{kj}}$ <br /> $V_{j} = ∑_{i=0}^{n} w_{i}*x_{ij}$ <br /> $SCORE(LTU) = \frac{P_{c}+N_{ne}}{P + N}\$ | <img src="https://github.com/CoolmixZero/ml-algorithms/assets/107999456/64949c58-c26c-43fc-a958-be9b45c8f86e"  width="1500" > |
 | R1 | ... | ... | ... |
 | Decision Tree C.45 | ... | ... | ... |
 | Decision Tree ID3 | ... | ... | ... |
